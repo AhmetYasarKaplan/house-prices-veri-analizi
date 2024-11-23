@@ -1,3 +1,6 @@
+# link to kaggle
+  https://www.kaggle.com/code/ahmetyasarkaplan/house-prices
+
 # house-prices-veri-analizi
 
 # **Real Estate Data Analysis and Preprocessing**
